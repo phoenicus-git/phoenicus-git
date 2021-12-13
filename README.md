@@ -17,7 +17,7 @@ Anything in life worth doing is worth overdoing.\
 Moderation is for net administrators.
 
 I'm a chromebook lover, Fedora user.\
-I'm a *'lone survivor'*[^1] writer. I write!!! Words with brackets interwine, and git push-it before the Wi-Fi signal dies.
+I'm a *'lone survivor'*[^1] writer. I write!!! Words with brackets intertwine, and git push-it before the Wi-Fi signal dies.
 
 So, if you are like me, then you better say it, because this dyslexic storytelling monkey been there, done that, and logged on for more.
 
